@@ -188,7 +188,7 @@ The container exposes:
 Build the image locally:
 
 ```bash
-docker build -t portfolio-app .
+docker build -t lorem-ipsum-app .
 ```
 
 If you are on Apple Silicon and will deploy an x86_64 Lambda function, build for Lambda's x86_64 architecture:
